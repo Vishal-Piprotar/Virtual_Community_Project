@@ -1,0 +1,11 @@
+.nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link.active {
+  color: #f8f9fa !important;
+}
+
+.btn {
+  margin-right: 10px;
+}
